@@ -4,4 +4,4 @@ Provides _GitHub Actions_ used in [Unity Game Framework](https://github.com/unit
 
 ## Topics
 
-- [Repositories List](https://github.com/unity-game-framework-actions/organization/blob/main/docs/repositories.md): List of available repositories at organization.
+- [Repositories List](https://github.com/unity-game-framework-actions/organization/blob/main/docs/repositories.md): list of available repositories at organization.
